@@ -1,0 +1,18 @@
+Структура папок
+Серийный номер тома: 00000200 A68D:6DA6
+C:.
+├───build
+│   ├───classes
+│   │   └───by
+│   │       └───iba
+│   │           └───pars
+│   ├───empty
+│   └───generated-sources
+│       └───ap-source-output
+├───dist
+├───nbproject
+│   └───private
+└───src
+    └───by
+        └───iba
+            └───pars

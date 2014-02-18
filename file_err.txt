@@ -1,0 +1,6 @@
+java.io.FileNotFoundException: file.txt (Не удается найти указанный файл)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileReader.<init>(FileReader.java:72)
+	at by.iba.pars.Pars.f(Pars.java:33)
+	at by.iba.pars.Pars.main(Pars.java:67)
